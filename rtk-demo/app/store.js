@@ -16,4 +16,3 @@ const store = configureStore({
 });
 
 module.exports = store;
-console.log("Hello World!");
